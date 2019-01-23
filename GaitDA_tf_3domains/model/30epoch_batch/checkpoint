@@ -1,0 +1,2 @@
+model_checkpoint_path: "30epoch_batchckpt"
+all_model_checkpoint_paths: "30epoch_batchckpt"

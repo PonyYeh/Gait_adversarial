@@ -1,0 +1,2 @@
+model_checkpoint_path: "50epoch_True_Angle0122_1753ckpt"
+all_model_checkpoint_paths: "50epoch_True_Angle0122_1753ckpt"

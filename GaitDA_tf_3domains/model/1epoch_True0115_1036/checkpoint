@@ -1,0 +1,2 @@
+model_checkpoint_path: "1epoch_True0115_1036ckpt"
+all_model_checkpoint_paths: "1epoch_True0115_1036ckpt"

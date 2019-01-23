@@ -1,0 +1,2 @@
+model_checkpoint_path: "40epoch_True_weight2.50116_0908ckpt"
+all_model_checkpoint_paths: "40epoch_True_weight2.50116_0908ckpt"
